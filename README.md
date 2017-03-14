@@ -9,7 +9,7 @@
 npm install
 
 # start Node/Express server at localhost:8000
-npm run tartServer
+npm run startServer
 
 # start Vue app localhost:8080
 npm start
